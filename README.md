@@ -18,11 +18,9 @@ Clone the repository to your local machine (ideally within a local server XAMPP,
 
 <strong>Step 2:</strong>
 
-Next we need to install the modules required to use gulp, these are used in our 'gulpfile.js' file. The modules required are declared in the 'package.json' file. To make sure the modules listed in the package.json file are the latest version type the commands:
+Next we need to install the modules required to use gulp, these are used in our 'gulpfile.js' file. The modules required are declared in the 'package.json' file:
 
-<i>npm i -g npm-check-updates <br/>
-npm-check-updates -u <br/>
-npm install </i>
+<i>npm install</i>
 
 To install the modules type the following command: <i>npm install</i>
 
